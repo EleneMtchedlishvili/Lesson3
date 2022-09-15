@@ -1,0 +1,16 @@
+ul {
+  text-align: center;
+  list-style: square;
+  color: red;
+}
+h1 {
+  text-align: center;
+}
+img {
+  width: 500px;
+}
+ol {
+  display: flex;
+  list-style: none;
+  word-break: break-all;
+}
