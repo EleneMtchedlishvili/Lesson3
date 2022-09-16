@@ -12,5 +12,15 @@ img {
 ol {
   display: flex;
   list-style: none;
-  word-break: break-all;
+}
+h3 {
+  float: right;
+}
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+th {
+  border: 1px solid black;
+  text-align: center;
 }
